@@ -1,0 +1,2 @@
+kubeadm join 192.168.1.100:6443 --token 4ptdgw.bup0n685ci1v96p8 \
+    --discovery-token-ca-cert-hash sha256:2965e5f080d5e5a0e02615da1892991a516158ca3b9b6f606e30eb10f0be3066 
